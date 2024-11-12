@@ -1,5 +1,7 @@
-Assigment 2: Development of garbage classification model.
-Group 3:  Chibuike Peter Ohanu and Irtaza Sohail 
+``Assigment 2: Development of garbage classification model.
+`
+`Group 3:  Chibuike Peter Ohanu and Irtaza Sohail 
+
 In this Assignment 2, we developed a garbage classification model that combines image and text data using PyTorch. The garbage dataset is organized into train, validation, and test. This is to ensure consistent image dimensions through padding and resizing.
 We applied image augmentations and normalization to enhance model generalization and compatibility with a pre-trained model.
 The DistilBERT is used to tokenize text and standardizing length through padding or truncation.
