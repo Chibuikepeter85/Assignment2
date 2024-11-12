@@ -1,4 +1,4 @@
-``Assigment 2: Development of garbage classification model.
+``Assignment 2: Development of garbage classification model.
 `
 `Group 3:  Chibuike Peter Ohanu and Irtaza Sohail 
 
